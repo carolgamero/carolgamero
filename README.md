@@ -1,7 +1,6 @@
 # Bem vindos ao meu mundo
 ## Esse é na verdade um teste sobre a utilização no git
-
-** meu nome é Carol **
+### Meu nome é Carol
 
 Sobre mim:
 - Tenho 18 anos
@@ -22,5 +21,5 @@ Hobbies:
 - Sair com as minhas amigas
 - Colecionar momentos
 
-Imagem que me representa:
+
 ![mulher linda](BelezaInclusiva.jpg)
