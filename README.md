@@ -2,6 +2,7 @@
 ## Esse é na verdade um teste sobre a utilização no git
 
 ** meu nome é Carol **
+
 Sobre mim:
 - Tenho 18 anos
 - Moro em uma cidade pequena
@@ -22,3 +23,4 @@ Hobbies:
 - Colecionar momentos
 
 Imagem que me representa:
+![mulher linda](BelezaInclusiva.jpg)
